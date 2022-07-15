@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+
+.box{
+  background-color:  purple;
+  padding: 10px;
+  color: #fff;
+  border-radius: 10px;
+}
